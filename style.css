@@ -13,16 +13,13 @@ h1 {
 	font-size: 35px;
 }
 
-.row {
-	margin-top: 460px;
-}
-.col-lg-12 {
-text-align: center;
-margin-left: 42px;
-}
-
 .btn {
+	margin-top: 460px;
 	border-radius: 65px;
 	border-color: black;
 	opacity: 0.5;
+}
+.btn-outline-secondary {
+text-align: center;
+margin-left: 560px;
 }
